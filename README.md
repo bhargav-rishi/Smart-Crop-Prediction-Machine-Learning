@@ -71,7 +71,7 @@ Each model was evaluated using:
 ---
 
 ## Project Structure
-
+<pre>
 Smart-Crop-Prediction-Machine-Learning/
 ├── ML_Project.ipynb
 ├── report/
@@ -79,5 +79,6 @@ Smart-Crop-Prediction-Machine-Learning/
 ├── data/
 │   ├── Crop_Recommendation_TRAIN.csv
 │   └── Crop_Recommendation_Test.csv
+  </pre>
 
 
