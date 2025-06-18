@@ -1,4 +1,4 @@
-# Smart Crop Prediction for Agricultural Transformation– Machine Learning Project
+# Smart Crop Prediction for Agricultural Transformation – Machine Learning Project
 
 ![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20Scikit--Learn%20%7C%20Machine%20Learning-blue)
 ![Language](https://img.shields.io/badge/Language-Python-orange)
